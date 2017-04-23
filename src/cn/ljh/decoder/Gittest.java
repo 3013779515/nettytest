@@ -6,10 +6,7 @@ public class Gittest {
 	private String demo;
 	
 
-	@Override
-	public String toString() {
-		return "Gittest [num=" + num + ", name=" + name + "]";
-	}
+	
 	public String getDemo() {
 		return demo;
 	}
