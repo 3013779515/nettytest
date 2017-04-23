@@ -3,7 +3,7 @@ package cn.ljh.decoder;
 public class Gittest {
 	private int num;
 	private String name;
-
+	private String demo;
 	
 
 	public String getName() {
