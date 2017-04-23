@@ -5,7 +5,11 @@ public class Gittest {
 	private String name;
 	private String demo;
 	
-
+private int age;
+	@Override
+	public String toString() {
+		return "Gittest [num=" + num + ", name=" + name + "]";
+	}
 	public String getDemo() {
 		return demo;
 	}
