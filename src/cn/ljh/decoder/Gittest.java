@@ -4,6 +4,11 @@ public class Gittest {
 	private int num;
 	private String name;
 
+	@Override
+	public String toString() {
+		return "Gittest [num=" + num + ", name=" + name + "]";
+	}
+
 	public String getName() {
 		return name;
 	}
