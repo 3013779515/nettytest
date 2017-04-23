@@ -3,7 +3,7 @@ package cn.ljh.decoder;
 public class Gittest {
 	private int num;
 	private String name;
-
+	private int age;
 	@Override
 	public String toString() {
 		return "Gittest [num=" + num + ", name=" + name + "]";
