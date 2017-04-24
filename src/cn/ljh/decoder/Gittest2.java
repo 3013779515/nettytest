@@ -2,6 +2,7 @@ package cn.ljh.decoder;
 
 public class Gittest2 {
 	private int num;
+	
 	private String name;
 	private String demo;
 	
